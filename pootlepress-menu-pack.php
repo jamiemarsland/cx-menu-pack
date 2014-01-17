@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Pootlepress Menu Pack
-Plugin URI: http://pootlepress.co.uk/
-Description: Hi, I'm a custom menu design pack, brought to you by Pootlepress. I help you customise the look and feel of your navigation menu in the Canvas theme by WooThemes.
+Plugin Name: Canvas Extension - Menu Pack
+Plugin URI: http://pootlepress.com/
+Description: An extension for WooThemes Canvas that contains a menu design pack. This helps you customise the look and feel of your navigation menu in the Canvas theme by WooThemes.
 Version: 1.2.0
-Author: Pootlepress
-Author URI: http://pootlepress.co.uk/
+Author: PootlePress
+Author URI: http://pootlepress.com/
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 /*  Copyright 2012  Pootlepress  (email : jamie@pootlepress.co.uk)
