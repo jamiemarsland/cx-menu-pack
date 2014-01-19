@@ -10,9 +10,9 @@ body #navigation_top_tabs { float: right; width: auto; background: none; border:
 body #navigation_top_tabs #main-nav { }
 
 body #navigation_top_tabs {
-	/* width: 585px; */
-	position: absolute;
-	left: 275px;
+	width: 585px;
+	position: relative;
+	/*left: 275px;*/
 	list-style: none;
 	font-size: 20px;
 	font-family: Georgia, serif;	

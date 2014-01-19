@@ -1,6 +1,11 @@
 #nav-container{
+	background:none!important;
 	border:none!important;
 	margin-bottom:0px!important;
+}
+
+#navigation_beautiful_type h3 {
+	display: none;
 }
 
 body #navigation_beautiful_type {
@@ -86,24 +91,24 @@ body #navigation_beautiful_type li.current_page_item a{
     	}			
 	body #navigation_beautiful_type ul.sub-menu{
     	width:100%;
-		/* background:#fff; */
+		background:#fff;
     	}
 	body #navigation_beautiful_type ul.sub-menu li a{
     	text-decoration:none;
+		height: 100%;
     	}
 	body #navigation_beautiful_type ul.sub-menu li span:hover{
 		background: none;
 		z-index: 99999;
 		color: #fff;
 		/* padding: 0 0 10px; */
-		padding-bottom:12px;
 		}	
 
 	body #navigation_beautiful_type ul.sub-menu li span{
+		padding-bottom: 0;
 		background:none;
 		z-index: 99999;
 		color: #151215;
-
 	}			
 
 	
