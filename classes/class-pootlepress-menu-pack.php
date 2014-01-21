@@ -85,7 +85,7 @@ class Pootlepress_Menu_Pack {
 		}
 		
 		$o[] = array(
-				'name' => __( 'Pootlepress Menus', 'pootlepress-menu-pack' ),
+				'name' => __( 'Menu Pack', 'pootlepress-menu-pack' ),
 				'type' => 'subheading'
 				);
 		$o[] = array(
