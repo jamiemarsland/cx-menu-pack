@@ -3,7 +3,7 @@
 Plugin Name: Canvas Extension - Menu Pack
 Plugin URI: http://pootlepress.com/
 Description: An extension for WooThemes Canvas that contains a menu design pack. This helps you customise the look and feel of your navigation menu in the Canvas theme by WooThemes.
-Version: 1.2.0
+Version: 1.3
 Author: PootlePress
 Author URI: http://pootlepress.com/
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -31,7 +31,7 @@ License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2
     require_once( 'classes/class-pootlepress-updater.php');
 
     $GLOBALS['pootlepress_menu_pack'] = new Pootlepress_Menu_Pack( __FILE__ );
-    $GLOBALS['pootlepress_menu_pack']->version = '1.0.0';
+    $GLOBALS['pootlepress_menu_pack']->version = '1.3';
 
 add_action('init', 'pp_mp_updater');
 function pp_mp_updater()
